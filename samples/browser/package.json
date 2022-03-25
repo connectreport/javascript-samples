@@ -1,0 +1,14 @@
+{
+  "name": "connectreport-api-samples",
+  "version": "1.0.0",
+  "description": "ConnectReport API samples",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "ConnectReport",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.1.0"
+  }
+}
