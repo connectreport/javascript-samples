@@ -6,6 +6,10 @@ This repository holds samples to get you up and running with the [ConnectReport 
 ## Table of contents 
 - [Browser samples](/samples/browser) 
   - [Base Template Download](samples/browser/base-template-download) 
+  - More coming soon
+- NodeJS samples: Coming soon
+- Typescript samples: Coming soon
+
 
 ## Run the samples 
 You can run the browser samples as [directed here](/samples/browser). 
