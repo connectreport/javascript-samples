@@ -27,3 +27,6 @@ From the CDN (version pinned):
 ```
 <script src="https://connectreport.com/docs/assets/2.39.2/connectreport.js"></script>
 ```
+
+## About ConnectReport
+[ConnectReport](https://connectreport.com) offers a developer-first platform with rich APIs and extensibility that customers rely on to power advanced reporting with less code. 
