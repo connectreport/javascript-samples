@@ -4,4 +4,10 @@ This sample demonstrates the end to end flow of providing a base template ID to 
 ## Configuration
 You will need a base template configured on your server, and an API key for a user that has access to the base template. 
 
-Once you have those, navigate to `/index.js` and set the constant values defined at the top to the appropriate values.
+## How to run
+```
+git clone https://github.com/connectreport/javascript-samples.git
+cd samples/browser
+npm i 
+npm start
+```
