@@ -1,5 +1,5 @@
 # ConnectReport JavaScript Samples
-This repository holds samples to get you up and running with the [ConnectReport JavaScript API client](https://connectreport.com/docs/index.html.)
+This repository holds samples to get you up and running with the [ConnectReport JavaScript API client](https://connectreport.com/support/connectreport-javascript-library/)
 
 ![image](connectreport-javascript-samples.jpg)
 
