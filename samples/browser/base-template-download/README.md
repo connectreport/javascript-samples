@@ -1,5 +1,5 @@
 # ConnectReport.js Base Template Download Sample
-This sample demonstrates the end to end flow of providing a base template ID to the client, running a task on a copy of the base template, and downloading a final generated PDF. To learn more about base templates in ConnectReport, see (here)[https://connectreport.com/support/shared-template-access-using-base-templates/]. 
+This sample demonstrates the end to end flow of providing a base template ID to the client, running a task on a copy of the base template, and downloading a final generated PDF. To learn more about base templates in ConnectReport, see [here](https://connectreport.com/support/shared-template-access-using-base-templates/). 
 
 ## Configuration
 You will need a base template configured on your server, and an API key for a user that has access to the base template. 
